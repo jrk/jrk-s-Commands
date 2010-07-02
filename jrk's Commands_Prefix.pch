@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'jrk's Commands' target in the 'jrk's Commands' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
